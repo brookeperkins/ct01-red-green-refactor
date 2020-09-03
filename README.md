@@ -1,4 +1,4 @@
-Lab 01: red-green-refactor
+## Lab 01: red-green-refactor
 getName function
 create a function that returns the name property of an object.
 

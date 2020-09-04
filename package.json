@@ -1,5 +1,5 @@
 {
-  "name": ".",
+  "name": "redgreenrefactor",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -24,6 +24,8 @@
     "nodemon": "^2.0.4"
   },
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.0"
   }
 }
